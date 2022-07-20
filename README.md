@@ -5,7 +5,7 @@
 
 TP sur le cours IJVA323 - Persistance Java (JPA) - Persistance Java (JPA)
 
-Par l'intervenant Thomas Clamon
+Par l'intervenant Thomas C.
 
 Léo - IPI CDAN 2022
 
